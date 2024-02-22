@@ -67,6 +67,7 @@ git branch <имя_ветки>
 ```sh
 git branch -d <имя_ветки>
 ```
+> *git branch -d <имя_ветки>* — удаляет ветку.
 ## Отображение коммитов графиком
 ```sh
 git log --oneline --graph
